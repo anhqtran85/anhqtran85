@@ -1,6 +1,8 @@
 ### Hi there 👋, Anh Tran
 #### Design and Development
-![Design and Development](https://anhtran010985.wixsite.com/eng111)
+![Design and Development]
+
+(https://anhtran010985.wixsite.com/eng111)
 
 I'm Anh Tran from Virginia, U.S. I am a graduated student from Christopher Newport University, Newport New, Virginia. My major is Information Science. I enjoy learning computer languages such as Java, Python, and R.
 

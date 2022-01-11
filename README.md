@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @anhqtran85
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning information science
-- 💞️ I’m looking to collaborate on data science feilds 
-- 📫 How to reach me anhqtran010985@gmail.com
+### Hi there 
 
-<!---
-anhqtran85/anhqtran85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Anh Tran from Virginia, U.S.
+I am a graduated student from Christopher Newport University, Newport New, Virginia. My major is Information Science.
+I enjoy learning computer languages such as Java, Python, and R. 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anhqtran85)](https://github.com/anuraghazra/github-readme-stats)

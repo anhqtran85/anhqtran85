@@ -1,6 +1,6 @@
 ### Hi there 👋, Anh Tran
 #### Design and Development
-![Design and Development]
+[Design and Development]
 
 (https://anhtran010985.wixsite.com/eng111)
 

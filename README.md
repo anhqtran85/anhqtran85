@@ -13,7 +13,7 @@ I'm Anh Tran from Virginia, U.S. I am a graduated student from Christopher Newpo
 - 🔭 I’m currently working on my personal projects relative to data engineer. 
 - 📫 How to reach me: anhqtran010985@gmail.com 
 
-<img src="https://cnuparking.pythonanywhere.com/" width="250>
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anhqtran85)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anhqtran010985/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://anhtran010985.wixsite.com/eng111)  
 
